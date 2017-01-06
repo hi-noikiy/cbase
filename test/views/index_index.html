@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>cbase framework 测试页面</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <style>
+            a ,a:active { color:blue; font-size: 14px;  text-decoration:none;}
+            a:hover{text-decoration: underline;}
+            li{ margin: 4px; padding-left: 10px;}
+            h3{ font-size: 16px;}
+        </style>
+    </head>
+    <body>
+        <h3>cbase framework 测试页面</h3>
+        <div>
+            <li> <a href="{{$listUrl.debug}}">1. 测试调试变量</a> </li>
+            <li> <a href="{{$listUrl.fun}}">2. 调用项目函数和控制器自定义函数</a> </li>
+            <li> <a href="{{$listUrl.config}}">3. 获取配置项和设置配置项</a> </li>
+            <li> <a href="{{$listUrl.extend}}">4. 加载系统扩展类和项目扩展类</a> </li>
+            <li> <a href="{{$listUrl.dbconfig}}">5. 数据库配置</a> </li>
+            <li> <a href="{{$listUrl.usemodel}}">6. 使用数据库模型</a> </li>
+            <li> <a href="{{$listUrl.query}}">7. 执行自定义SQL语句</a> </li>
+            <li> <a href="{{$listUrl.getsql}}">8. 获取执行的SQL</a> </li>
+            <li> <a href="{{$listUrl.count}}">9. 查询行数</a> </li>
+            <li> <a href="{{$listUrl.geterror}}">10. 获取错误信息</a> </li>
+            <li> <a href="{{$listUrl.select}}">11. 查询数据</a> </li>
+            <li> <a href="{{$listUrl.insert}}">12. 插入数据</a> </li>
+            <li> <a href="{{$listUrl.update}}">13. 更新数据</a> </li>
+            <li> <a href="{{$listUrl.delete}}">14. 删除数据</a> </li>
+            <li> <a href="{{$listUrl.field}}">15. 获取表字段信息</a> </li>
+            <li> <a href="{{$listUrl.exception}}">16. 异常处理</a> </li>
+            <li> <a href="{{$listUrl.log}}">17. 记录日志</a> </li>
+            <li> <a href="{{$listUrl.cli}}">18. 命令行模式</a> </li>
+            <li> <a href="{{$listUrl.cache}}">18. 缓存处理</a> </li>
+        </div>
+    </body>
+</html>

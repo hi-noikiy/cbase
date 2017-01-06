@@ -1,0 +1,39 @@
+[ 2014-10-09T10:39:58+08:00 ] NOTIC: [8] Use of undefined constant IS_CGI - assumed 'IS_CGI' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 26 行.
+[ 2014-10-09T11:17:21+08:00 ] ERR: The controller [C_MODULE_NAME] is not exist. access ip:127.0.0.1
+[ 2014-10-09T11:17:41+08:00 ] ERR: The controller [C_MODULE_NAME] is not exist. access ip:127.0.0.1
+[ 2014-10-09T11:19:43+08:00 ] ERR: The controller [Admin] is not exist. access ip:127.0.0.1
+[ 2014-10-09T11:35:07+08:00 ] ERR: The controller [C_MODULE_NAME] is not exist. access ip:127.0.0.1
+[ 2014-10-09T11:45:11+08:00 ] ERR: The controller [C_MODULE_NAME] is not exist. access ip:127.0.0.1
+[ 2014-10-09T13:19:14+08:00 ] ERR: The controller [Admin] is not exist. access ip:127.0.0.1
+[ 2014-10-09T13:47:10+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 74 行.
+[ 2014-10-09T13:47:16+08:00 ] NOTIC: [8] Array to string conversion D:\web\framework\cbase\core\base\CDispatcher.class.php 第 57 行.
+[ 2014-10-09T13:47:16+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 74 行.
+[ 2014-10-09T13:47:23+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 74 行.
+[ 2014-10-09T13:47:29+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 74 行.
+[ 2014-10-09T13:48:01+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 74 行.
+[ 2014-10-09T13:48:29+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 74 行.
+[ 2014-10-09T13:48:36+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 74 行.
+[ 2014-10-09T13:48:40+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 74 行.
+[ 2014-10-09T13:48:44+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 74 行.
+[ 2014-10-09T13:48:51+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 74 行.
+[ 2014-10-09T13:51:22+08:00 ] NOTIC: [8] Use of undefined constant C_APP_COMMON_PATHM - assumed 'C_APP_COMMON_PATHM' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 77 行.
+[ 2014-10-09T13:54:10+08:00 ] NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\web\framework\cbase\core\base\CView.class.php:70) D:\web\framework\cbase\core\base\CException.class.php 第 272 行.
+[ 2014-10-09T14:05:41+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 75 行.
+[ 2014-10-09T14:05:41+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 77 行.
+[ 2014-10-09T14:05:41+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 78 行.
+[ 2014-10-09T14:12:03+08:00 ] ERR: HTTP/1.1 404 Not Found access ip:127.0.0.1
+[ 2014-10-09T14:12:13+08:00 ] ERR: HTTP/1.1 404 Not Found access ip:127.0.0.1
+[ 2014-10-09T14:14:52+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 75 行.
+[ 2014-10-09T14:14:52+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 77 行.
+[ 2014-10-09T14:14:52+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 78 行.
+[ 2014-10-09T14:18:39+08:00 ] ERR: The controller [A] is not exist. access ip:127.0.0.1
+[ 2014-10-09T15:31:50+08:00 ] ERR: The controller [Aa] is not exist. access ip:127.0.0.1
+[ 2014-10-09T15:32:06+08:00 ] ERR: The controller [Aa] is not exist. access ip:127.0.0.1
+[ 2014-10-09T15:32:07+08:00 ] ERR: The controller [Aa] is not exist. access ip:127.0.0.1
+[ 2014-10-09T15:32:45+08:00 ] ERR: The controller [Aa] is not exist. access ip:127.0.0.1
+[ 2014-10-09T15:44:28+08:00 ] ERR: HTTP/1.1 404 Not Found access ip:127.0.0.1
+[ 2014-10-09T15:44:52+08:00 ] ERR: HTTP/1.1 404 Not Found access ip:127.0.0.1
+[ 2014-10-09T15:44:54+08:00 ] ERR: HTTP/1.1 404 Not Found access ip:127.0.0.1
+[ 2014-10-09T15:45:04+08:00 ] ERR: HTTP/1.1 404 Not Found access ip:127.0.0.1
+[ 2014-10-09T15:45:33+08:00 ] ERR: HTTP/1.1 404 Not Found access ip:127.0.0.1
+[ 2014-10-09T16:08:36+08:00 ] ERR: The controller [Index2] is not exist. access ip:127.0.0.1

@@ -1,0 +1,5 @@
+[ 2015-03-04T10:26:29+08:00 ] NOTIC: [8] Undefined offset: 0 D:\web\framework\cbase\core\base\CDispatcher.class.php 第 47 行.
+[ 2015-03-04T10:27:21+08:00 ] NOTIC: [8] Undefined offset: 0 D:\web\framework\cbase\core\base\CDispatcher.class.php 第 47 行.
+[ 2015-03-04T14:19:42+08:00 ] NOTIC: [8] Undefined offset: 0 D:\web\framework\cbase\core\base\CDispatcher.class.php 第 47 行.
+[ 2015-03-04T14:19:42+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CView.class.php 第 47 行.
+[ 2015-03-04T14:19:42+08:00 ] ERR: D:\web\framework\cbase\app\views\C_GROUP_NAME\Index_index.html file not found access ip:127.0.0.1

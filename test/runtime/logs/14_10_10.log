@@ -1,0 +1,277 @@
+[ 2014-10-10T14:52:19+08:00 ] ERR: The method [Index.html] is not exist. access ip:127.0.0.1
+[ 2014-10-10T14:52:49+08:00 ] ERR: The method [Index.html] is not exist. access ip:127.0.0.1
+[ 2014-10-10T15:34:26+08:00 ] ERR: id params is miss. access ip:127.0.0.1
+[ 2014-10-10T15:43:29+08:00 ] ERR: ProjectModel[Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:44:11+08:00 ] ERR: ProjectModel[Class]d Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:44:30+08:00 ] ERR: D:\web\framework\cbase\app\models\Admin\ProjectModel.php[Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:44:48+08:00 ] ERR: D:\web\framework\cbase\app\models\Admin\ProjectModel.php[ProjectModel Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:44:51+08:00 ] ERR: D:\web\framework\cbase\app\models\Admin\ProjectModel.php [ProjectModel Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:45:16+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:45:16+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T15:45:16+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:45:16+08:00 ] ERR: D:\web\framework\cbase\app\models\Admin\ProjectModel.php [ProjectModel Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:46:17+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:46:17+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T15:46:17+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:46:17+08:00 ] ERR: D:\web\framework\cbase\app\models\Admin\ProjectModel.php [ProjectModel Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:46:38+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:46:38+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T15:46:38+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:46:38+08:00 ] ERR: D:\web\framework\cbase\app\models\Admin\ProjectModel.php [ProjectModel Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:46:47+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:46:47+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T15:46:47+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:46:47+08:00 ] ERR: D:\web\framework\cbase\app\models\Admin\ProjectModel.php [ProjectModel Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:46:56+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:46:56+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T15:46:56+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:46:56+08:00 ] ERR: D:\web\framework\cbase\app\models\Admin\ProjectModel.php [ProjectModel Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:47:58+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:47:58+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T15:47:58+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:47:58+08:00 ] ERR: D:\web\framework\cbase\app\models\Admin\ProjectModel.php [ProjectModel Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:48:02+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:48:02+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T15:48:02+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:48:02+08:00 ] ERR: D:\web\framework\cbase\app\models\Admin\ProjectModel.php [ProjectModel Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:48:13+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:48:13+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T15:48:13+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:48:13+08:00 ] ERR: D:\web\framework\cbase\app\models\Admin\ProjectModel.php [ProjectModel Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:48:23+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:48:23+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T15:48:23+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:48:23+08:00 ] ERR: D:\web\framework\cbase\app\models\Admin\ProjectModel.php [ProjectModel Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:48:28+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:48:28+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T15:48:28+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:48:28+08:00 ] ERR: D:\web\framework\cbase\app\models\Admin\ProjectModel.php [ProjectModel Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:48:45+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:48:45+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T15:48:45+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:48:45+08:00 ] ERR: D:\web\framework\cbase\app\models\Admin\ProjectModel.php [ProjectModel Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:48:47+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:48:47+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T15:48:47+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T15:48:47+08:00 ] ERR: D:\web\framework\cbase\app\models\Admin\ProjectModel.php [ProjectModel Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:49:02+08:00 ] ERR: D:\web\framework\cbase\app\models\Admin\ProjectModel.php [ProjectModel Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:49:37+08:00 ] ERR: D:\web\framework\cbase\app\models\Admin\ProjectModel.php [ProjectModel Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:49:58+08:00 ] ERR: D:\web\framework\cbase\app\models\Admin\ProjectModel.php [ProjectModel Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:50:27+08:00 ] ERR: ProjectModel [Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:52:01+08:00 ] ERR: ProjectModel [Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:53:08+08:00 ] ERR: ProjectModel [Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:55:27+08:00 ] ERR: ProjectModel [Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:55:50+08:00 ] ERR: ProjectModel [Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:55:51+08:00 ] ERR: ProjectModel [Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T15:56:04+08:00 ] ERR: The controller [Index] is not exist. access ip:127.0.0.1
+[ 2014-10-10T15:57:23+08:00 ] ERR: The controller [Index] is not exist. access ip:127.0.0.1
+[ 2014-10-10T15:58:16+08:00 ] ERR: The controller [Index] is not exist. access ip:127.0.0.1
+[ 2014-10-10T15:58:20+08:00 ] ERR: The controller [Index] is not exist. access ip:127.0.0.1
+[ 2014-10-10T16:00:37+08:00 ] ERR: The method [Index.html] is not exist. access ip:127.0.0.1
+[ 2014-10-10T16:01:04+08:00 ] ERR: ProjectModel [Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T16:01:22+08:00 ] ERR: The method [Index2] is not exist. access ip:127.0.0.1
+[ 2014-10-10T16:02:12+08:00 ] ERR: The method [Index2] is not exist. access ip:127.0.0.1
+[ 2014-10-10T16:02:13+08:00 ] ERR: The method [Index2] is not exist. access ip:127.0.0.1
+[ 2014-10-10T16:03:22+08:00 ] ERR: The method [Index2] is not exist. access ip:127.0.0.1
+[ 2014-10-10T16:04:07+08:00 ] ERR: The method [Index2] is not exist. access ip:127.0.0.1
+[ 2014-10-10T16:05:23+08:00 ] ERR: ProjectModel [Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T16:05:28+08:00 ] ERR: The controller [Index2] is not exist. access ip:127.0.0.1
+[ 2014-10-10T16:06:01+08:00 ] ERR: EmptyController [Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T16:06:59+08:00 ] ERR: EmptyController [Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T16:07:18+08:00 ] ERR: D:\web\framework\cbase\app\controllers\Admin\EmptyController.php [Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T16:08:07+08:00 ] ERR: The controller [Index2] is not exist. access ip:127.0.0.1
+[ 2014-10-10T16:34:50+08:00 ] NOTIC: [8] Undefined variable: _class D:\web\framework\cbase\core\base\CApp.class.php 第 74 行.
+[ 2014-10-10T16:35:03+08:00 ] NOTIC: [8] Undefined variable: _class D:\web\framework\cbase\core\base\CApp.class.php 第 74 行.
+[ 2014-10-10T16:35:18+08:00 ] ERR: BaseController [Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T16:35:35+08:00 ] ERR: BaseController [Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T16:36:18+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T16:36:18+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T16:36:18+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T16:36:18+08:00 ] ERR: ProjectModel [Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T16:36:38+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T16:36:38+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T16:36:38+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T16:36:38+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
+[ 2014-10-10T16:36:38+08:00 ] NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\web\framework\cbase\app\controllers\admin\IndexController.php:33) D:\web\framework\cbase\core\base\CException.class.php 第 272 行.
+[ 2014-10-10T16:36:47+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T16:36:47+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T16:36:47+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T16:36:47+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
+[ 2014-10-10T16:36:47+08:00 ] NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\web\framework\cbase\app\controllers\admin\IndexController.php:33) D:\web\framework\cbase\core\base\CException.class.php 第 272 行.
+[ 2014-10-10T16:47:54+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T16:47:54+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T16:47:54+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T16:47:54+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
+[ 2014-10-10T16:47:54+08:00 ] NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\web\framework\cbase\app\controllers\admin\IndexController.php:33) D:\web\framework\cbase\core\base\CException.class.php 第 272 行.
+[ 2014-10-10T16:48:07+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T16:48:07+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T16:48:07+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T16:48:07+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
+[ 2014-10-10T16:48:18+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T16:48:18+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T16:48:18+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T16:48:18+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
+[ 2014-10-10T16:52:21+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T16:52:21+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T16:52:21+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T16:52:21+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
+[ 2014-10-10T16:54:57+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T16:54:57+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2014-10-10T16:54:57+08:00 ] DEBUG: 测试一下变量的值
+[ 2014-10-10T16:54:57+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
+[ 2014-10-10T16:55:00+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T16:55:00+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 77 行.
+[ 2014-10-10T16:55:00+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 79 行.
+[ 2014-10-10T16:55:00+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 80 行.
+[ 2014-10-10T16:57:08+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T16:57:08+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 77 行.
+[ 2014-10-10T16:57:08+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 79 行.
+[ 2014-10-10T16:57:08+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 80 行.
+[ 2014-10-10T16:57:33+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CDispatcher.class.php 第 89 行.
+[ 2014-10-10T16:57:33+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T16:57:33+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 77 行.
+[ 2014-10-10T16:57:33+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 79 行.
+[ 2014-10-10T16:57:33+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 80 行.
+[ 2014-10-10T16:57:39+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T16:57:39+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 77 行.
+[ 2014-10-10T16:57:39+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 79 行.
+[ 2014-10-10T16:57:39+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 80 行.
+[ 2014-10-10T16:57:44+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T16:57:44+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 77 行.
+[ 2014-10-10T16:57:44+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 79 行.
+[ 2014-10-10T16:57:44+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 80 行.
+[ 2014-10-10T16:58:05+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T16:58:05+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 77 行.
+[ 2014-10-10T16:58:05+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 79 行.
+[ 2014-10-10T16:58:05+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 80 行.
+[ 2014-10-10T16:58:19+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T16:58:19+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 77 行.
+[ 2014-10-10T16:58:19+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 79 行.
+[ 2014-10-10T16:58:19+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 80 行.
+[ 2014-10-10T16:58:19+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 109 行.
+[ 2014-10-10T16:58:29+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T16:58:29+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 77 行.
+[ 2014-10-10T16:58:29+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 79 行.
+[ 2014-10-10T16:58:29+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 80 行.
+[ 2014-10-10T16:58:29+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 109 行.
+[ 2014-10-10T16:59:52+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T16:59:52+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T16:59:52+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:00:27+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:00:27+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:00:27+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:00:27+08:00 ] ERR: Smarty [Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T17:00:54+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:00:54+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:00:54+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:00:54+08:00 ] ERR: Smarty [Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T17:02:25+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:02:25+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:02:25+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:02:25+08:00 ] ERR: Smarty [Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T17:02:58+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:02:58+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:02:58+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:02:58+08:00 ] ERR: Smarty [Class] Not Found! access ip:127.0.0.1
+[ 2014-10-10T17:03:09+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:03:09+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:03:09+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:05:01+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:05:01+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:05:01+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:05:18+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:05:18+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:05:18+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:05:27+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:05:27+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:05:27+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:05:33+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:05:33+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:05:33+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:06:31+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:06:31+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:06:31+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:06:43+08:00 ] NOTIC: [8] Undefined offset: 0 D:\web\framework\cbase\core\base\CDispatcher.class.php 第 76 行.
+[ 2014-10-10T17:06:43+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:06:43+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:06:43+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:06:48+08:00 ] NOTIC: [8] Undefined offset: 0 D:\web\framework\cbase\core\base\CDispatcher.class.php 第 76 行.
+[ 2014-10-10T17:06:48+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:06:48+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:06:48+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:06:54+08:00 ] NOTIC: [8] Undefined offset: 0 D:\web\framework\cbase\core\base\CDispatcher.class.php 第 76 行.
+[ 2014-10-10T17:06:54+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:06:54+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:06:54+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:07:22+08:00 ] NOTIC: [8] Undefined offset: 0 D:\web\framework\cbase\core\base\CDispatcher.class.php 第 76 行.
+[ 2014-10-10T17:07:22+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:07:22+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:07:22+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:07:27+08:00 ] NOTIC: [8] Undefined offset: 0 D:\web\framework\cbase\core\base\CDispatcher.class.php 第 76 行.
+[ 2014-10-10T17:07:27+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:07:27+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:07:27+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:08:00+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:08:10+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:08:15+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:08:15+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:08:15+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:08:19+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:08:19+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:08:19+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:09:08+08:00 ] NOTIC: [8] Undefined offset: 0 D:\web\framework\cbase\core\base\CDispatcher.class.php 第 76 行.
+[ 2014-10-10T17:09:08+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:09:08+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:09:08+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:09:23+08:00 ] NOTIC: [8] Constant C_MODULE_NAME already defined D:\web\framework\cbase\core\base\CDispatcher.class.php 第 86 行.
+[ 2014-10-10T17:09:23+08:00 ] NOTIC: [8] Constant C_ACTION_NAME already defined D:\web\framework\cbase\core\base\CDispatcher.class.php 第 87 行.
+[ 2014-10-10T17:09:23+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:09:23+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:09:23+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:11:59+08:00 ] NOTIC: [8] Constant C_MODULE_NAME already defined D:\web\framework\cbase\core\base\CDispatcher.class.php 第 86 行.
+[ 2014-10-10T17:11:59+08:00 ] NOTIC: [8] Constant C_ACTION_NAME already defined D:\web\framework\cbase\core\base\CDispatcher.class.php 第 87 行.
+[ 2014-10-10T17:11:59+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:11:59+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:11:59+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:12:17+08:00 ] NOTIC: [8] Constant C_MODULE_NAME already defined D:\web\framework\cbase\core\base\CDispatcher.class.php 第 86 行.
+[ 2014-10-10T17:12:17+08:00 ] NOTIC: [8] Constant C_ACTION_NAME already defined D:\web\framework\cbase\core\base\CDispatcher.class.php 第 87 行.
+[ 2014-10-10T17:12:17+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:12:17+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:12:17+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:12:25+08:00 ] NOTIC: [8] Constant C_MODULE_NAME already defined D:\web\framework\cbase\core\base\CDispatcher.class.php 第 86 行.
+[ 2014-10-10T17:12:25+08:00 ] NOTIC: [8] Constant C_ACTION_NAME already defined D:\web\framework\cbase\core\base\CDispatcher.class.php 第 87 行.
+[ 2014-10-10T17:12:25+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:12:25+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:12:25+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:12:36+08:00 ] NOTIC: [8] Constant C_MODULE_NAME already defined D:\web\framework\cbase\core\base\CDispatcher.class.php 第 86 行.
+[ 2014-10-10T17:12:36+08:00 ] NOTIC: [8] Constant C_ACTION_NAME already defined D:\web\framework\cbase\core\base\CDispatcher.class.php 第 87 行.
+[ 2014-10-10T17:12:36+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:12:36+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:12:36+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:12:46+08:00 ] NOTIC: [8] Constant C_MODULE_NAME already defined D:\web\framework\cbase\core\base\CDispatcher.class.php 第 86 行.
+[ 2014-10-10T17:12:46+08:00 ] NOTIC: [8] Constant C_ACTION_NAME already defined D:\web\framework\cbase\core\base\CDispatcher.class.php 第 87 行.
+[ 2014-10-10T17:12:46+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:12:46+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:12:46+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:12:54+08:00 ] NOTIC: [8] Undefined index: PATH_INFO D:\web\framework\cbase\core\base\CDispatcher.class.php 第 39 行.
+[ 2014-10-10T17:12:54+08:00 ] NOTIC: [8] Constant C_MODULE_NAME already defined D:\web\framework\cbase\core\base\CDispatcher.class.php 第 86 行.
+[ 2014-10-10T17:12:54+08:00 ] NOTIC: [8] Constant C_ACTION_NAME already defined D:\web\framework\cbase\core\base\CDispatcher.class.php 第 87 行.
+[ 2014-10-10T17:12:54+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:12:54+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:12:54+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:13:02+08:00 ] NOTIC: [8] Undefined offset: 0 D:\web\framework\cbase\core\base\CDispatcher.class.php 第 76 行.
+[ 2014-10-10T17:13:02+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:13:02+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:13:02+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:13:09+08:00 ] NOTIC: [8] Undefined offset: 0 D:\web\framework\cbase\core\base\CDispatcher.class.php 第 76 行.
+[ 2014-10-10T17:13:09+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:13:09+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:13:09+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:13:17+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:13:17+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:13:17+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:14:19+08:00 ] NOTIC: [8] Constant C_MODULE_NAME already defined D:\web\framework\cbase\core\base\CDispatcher.class.php 第 86 行.
+[ 2014-10-10T17:14:19+08:00 ] NOTIC: [8] Constant C_ACTION_NAME already defined D:\web\framework\cbase\core\base\CDispatcher.class.php 第 87 行.
+[ 2014-10-10T17:14:19+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CApp.class.php 第 75 行.
+[ 2014-10-10T17:14:19+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.
+[ 2014-10-10T17:14:19+08:00 ] NOTIC: [8] Use of undefined constant C_GROUP_NAME - assumed 'C_GROUP_NAME' D:\web\framework\cbase\core\base\CBase.class.php 第 98 行.

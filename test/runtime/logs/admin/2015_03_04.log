@@ -1,0 +1,74 @@
+[ 2015-03-04T10:29:01+08:00 ] ERR: id params is miss. access ip:127.0.0.1
+[ 2015-03-04T10:29:25+08:00 ] ERR: id params is miss. access ip:127.0.0.1
+[ 2015-03-04T10:29:53+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:29:53+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2015-03-04T10:29:53+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:29:53+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
+[ 2015-03-04T10:30:08+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2015-03-04T10:30:08+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 18 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 20 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 22 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 24 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 26 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 28 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 30 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 32 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 34 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 36 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 38 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 40 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 42 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 44 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 46 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 48 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 50 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 52 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [8] Undefined index: listUrl D:\web\framework\cbase\app\runtime\temp\%%7C^7CA^7CA0A3B2%%index_index.html.php 第 54 行.
+[ 2015-03-04T10:30:08+08:00 ] NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\web\framework\cbase\core\base\CView.class.php:81) D:\web\framework\cbase\core\base\CException.class.php 第 284 行.
+[ 2015-03-04T10:30:46+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:30:46+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2015-03-04T10:30:46+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:30:46+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
+[ 2015-03-04T10:30:56+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:30:56+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2015-03-04T10:30:56+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:30:56+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
+[ 2015-03-04T10:31:09+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:31:09+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2015-03-04T10:31:09+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:31:09+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
+[ 2015-03-04T10:31:16+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:31:16+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2015-03-04T10:31:16+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:31:16+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
+[ 2015-03-04T10:31:30+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:31:30+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2015-03-04T10:31:30+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:31:30+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
+[ 2015-03-04T10:31:30+08:00 ] ERR: D:\web\framework\cbase\app\views\admin\index_index.html file not found access ip:127.0.0.1
+[ 2015-03-04T10:32:07+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:32:07+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2015-03-04T10:32:07+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:32:07+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
+[ 2015-03-04T10:32:07+08:00 ] ERR: D:\web\framework\cbase\app\views\admin\index_index.html file not found access ip:127.0.0.1
+[ 2015-03-04T10:32:12+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:32:12+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2015-03-04T10:32:12+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:32:12+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
+[ 2015-03-04T10:33:49+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:33:49+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2015-03-04T10:33:49+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:33:49+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
+[ 2015-03-04T10:33:49+08:00 ] ERR: D:\web\framework\cbase\app\views\Admin\Index_index.html file not found access ip:127.0.0.1
+[ 2015-03-04T10:34:11+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:34:11+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2015-03-04T10:34:11+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:34:11+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
+[ 2015-03-04T10:34:11+08:00 ] NOTIC: [2] unlink(D:\web\framework\cbase\app\runtime\temp\\%%8E^8EC^8EC8B6BF%%Index_index.html.php): No such file or directory D:\xampp\php\pear\class\smarty\internals\core.write_file.php 第 44 行.
+[ 2015-03-04T10:36:13+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:36:13+08:00 ] NOTIC: [8] Undefined variable: test D:\web\framework\cbase\app\controllers\admin\IndexController.php 第 9 行.
+[ 2015-03-04T10:36:13+08:00 ] DEBUG: 测试一下变量的值
+[ 2015-03-04T10:36:13+08:00 ] NOTIC: [8] Undefined index: app_project D:\web\framework\cbase\core\driver\cache\CacheFile.class.php 第 30 行.
